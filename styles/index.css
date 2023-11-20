@@ -1,0 +1,12 @@
+.header {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(58, 41, 41);
+  text-align: center;
+  font-size: 55px;
+  background-color: gray;
+}
+
+.link-element {
+  font-size: 45px;
+  color: purple;
+}
